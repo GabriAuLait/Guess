@@ -50,5 +50,10 @@ class Card
     return $this->color;
   }
 
+  public function __toString()
+  {
+    $completecard = $this->name." ".$this->color;
+    return $completecard;
+  }
 
 }
