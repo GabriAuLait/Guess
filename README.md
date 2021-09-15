@@ -7,6 +7,7 @@ Sio 22
 
 dépot initial : https://gitlab.com/okpu/guesswhat
 
+dépot du projet : https://github.com/GabriAuLait/Guess
 
 Objectif du projet : 
 
